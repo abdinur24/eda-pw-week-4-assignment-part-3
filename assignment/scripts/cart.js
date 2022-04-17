@@ -9,7 +9,7 @@ function addItem( item ){
 
 function listItems(){
     for(i=0; i < basket.length; i++);
-    return;
+    return ;
 }
 console.log(listItems);
 
